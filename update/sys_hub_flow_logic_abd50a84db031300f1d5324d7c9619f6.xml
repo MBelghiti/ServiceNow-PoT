@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">8ad50a84db031300f1d5324d7c96199a</block>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="Purchase Order Flow">63d54684db031300f1d5324d7c961914</flow>
+        <inputs/>
+        <logic_definition display_value="For Each">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-27 11:18:14</sys_created_on>
+        <sys_id>abd50a84db031300f1d5324d7c9619f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Pruchase Order Management" source="x_239955_crm">872a3b42dbb21300f1d5324d7c96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pruchase Order Management">872a3b42dbb21300f1d5324d7c96198d</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_abd50a84db031300f1d5324d7c9619f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-27 11:18:14</sys_updated_on>
+        <ui_id>1cbdc7e6-2cb9-45e7-b4f1-3f0976982eac</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=abd50a84db031300f1d5324d7c9619f6"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>abd50a84db031300f1d5324d7c9619f6</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-27 11:18:14</sys_created_on>
+        <sys_id>6bd50a84db031300f1d5324d7c9619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-27 11:18:14</sys_updated_on>
+        <value>{{Created_1.current.u_glide_list_1}}</value>
+        <variable display_value="">19df9109c32632002841b63b12d3aed6</variable>
+    </sys_variable_value>
+</record_update>
